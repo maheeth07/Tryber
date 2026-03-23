@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API=axios.create({
-    baseURL:"tryber-backend-production.up.railway.app/api",
+    baseURL:"https://tryber-backend-production.up.railway.app/api",
 });
 
 API.interceptors.request.use((req)=>{
