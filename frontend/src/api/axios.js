@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API=axios.create({
-    baseURL:"http://localhost:2000/api",
+    baseURL:"tryber-backend-production.up.railway.app/api",
 });
 
 API.interceptors.request.use((req)=>{
