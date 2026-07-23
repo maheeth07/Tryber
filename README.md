@@ -1,0 +1,1 @@
+Developed Tryber, a full-stack gym management platform with automated membership management, payment tracking, and an AI-powered fitness assistant built using React.js, Node.js, Express.js, MongoDB, and LangChain.
